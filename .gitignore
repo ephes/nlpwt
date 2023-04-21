@@ -161,3 +161,6 @@ cython_debug/
 
 # original book notebooks
 notebooks
+
+# vim
+*.swp
